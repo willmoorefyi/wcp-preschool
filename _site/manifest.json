@@ -1,0 +1,15 @@
+{
+  "lang": "en-US",
+  "name": "Walker Chapel Preschool",
+  "short_name": "WalkerChapelPreschool",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "http://www.walkerchapel.org/Portals/67/Images/Preschool/WCP%20Logo%20-%20transparent%20-%20full.png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone"
+}
