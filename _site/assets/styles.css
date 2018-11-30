@@ -1644,3 +1644,9 @@ pre code {
 .typeset pre {
   white-space: pre;
   overflow-x: scroll; }
+
+.container.typeset.index {
+  color: #F0F3F4; }
+
+.container.typeset.index h2 {
+  color: #F0F3F4; }
