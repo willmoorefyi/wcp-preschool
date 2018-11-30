@@ -1,8 +1,8 @@
-const version = '20181128233449';
+const version = '20181129211530';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/about.html","/admissions.html","/classroom.html","/families.html","/","/tuition.html","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","http://www.walkerchapel.org/Portals/67/Images/Preschool/WCP%20Logo%20-%20transparent%20-%20full.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/about.html","/admissions.html","/classroom.html","/contact.html","/families.html","/","/tuition.html","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/feed.xml","http://www.walkerchapel.org/Portals/67/Images/Preschool/WCP%20Logo%20-%20transparent%20-%20full.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
