@@ -1,15 +1,17 @@
 ---
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/img/image2.jpeg"
 feature_text: |
   ## Tuition
+feature_style: index
 ---
 
 ---
 
 Tuition is invoiced monthly and is due the first day of the month.  Late fees will be applied if tuition is not received by the 10th of the month.
 
-Monthly tuition is as follows:
+<div class="table-tuition" markdown="1">
+<div class="table-header">Monthly tuition</div>
 
 | Class | Monthly Tuition |
 |---|---|
@@ -17,7 +19,8 @@ Monthly tuition is as follows:
 | 3 year old | $430.00 |
 | Pre-K/4 year old | $945.00 |
 
-<br/>
+</div>
+
 A 10% tuition discount is given on the the tuition of the younger child for families enrolling more than one child.
 
 ### Withdrawal

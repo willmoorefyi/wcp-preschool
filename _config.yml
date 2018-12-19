@@ -36,7 +36,7 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-  Back to top: "#top"
+  Back to top: "{{ page.url }}"
 
 # Build settings
 theme: alembic-jekyll-theme

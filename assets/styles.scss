@@ -4,10 +4,21 @@ styles: true
 ---
 
 @import "alembic";
+@import "table";
 
+.container.typeset {
+    text-shadow: 1px 1px 2px black;
+}
 .container.typeset.index {
     color: #F0F3F4;
 }
 .container.typeset.index h2 {
     color: #F0F3F4;
+}
+
+.container.typeset.about {
+    color: #BA4A00;
+}
+.container.typeset.about h2 {
+    color: #BA4A00;
 }
