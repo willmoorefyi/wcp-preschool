@@ -1,0 +1,11 @@
+.class {
+    p {
+        text-align: center;
+    }
+
+    ul li > ul {
+        padding-top: 0;
+        margin-bottom: 0;
+    }
+}
+

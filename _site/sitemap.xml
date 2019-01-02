@@ -19,7 +19,13 @@
 <loc>http://localhost:4000/families.html</loc>
 </url>
 <url>
+<loc>http://localhost:4000/fours.html</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/threes.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tuition.html</loc>
