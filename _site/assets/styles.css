@@ -1690,6 +1690,27 @@ table {
     box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1);
     margin: 0.5rem 0;
     padding: 0; } }
+.list--nav {
+  overflow: visible; }
+
+li.item--nav {
+  position: relative; }
+  li.item--nav ul {
+    display: none; }
+  li.item--nav:hover ul {
+    display: block;
+    width: 160px;
+    left: 0;
+    position: absolute; }
+    li.item--nav:hover ul li {
+      display: list-item;
+      background-color: #ffffff;
+      float: none;
+      position: relative;
+      text-align: left; }
+      li.item--nav:hover ul li:hover {
+        background-color: #e0e0e0; }
+
 .container.typeset {
   text-shadow: 1px 1px 2px black; }
 

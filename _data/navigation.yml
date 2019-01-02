@@ -1,0 +1,18 @@
+- title: Home
+  url: /index.html
+  nav_link: /index.html
+- title: About Us
+  url: /about.html
+- title: Admissions
+  url: /admissions.html
+- title: Tuition
+  url: /tuition.html
+- title: Our Classes
+  url: /classroom.html
+  submenu:
+    - title: Twos
+      url: /twos.html
+- title: Current Families
+  url: /families.html
+- title: Contact Us
+  url: /contact.html

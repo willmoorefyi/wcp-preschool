@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_link: about
 feature_image: "/assets/img/IMG_0162.jpg"
 feature_text: |
   ## About Us

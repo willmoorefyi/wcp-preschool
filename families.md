@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_link: families
 feature_image: "/assets/img/IMG_0164.JPG"
 feature_text: |
   ## Current Family Resources

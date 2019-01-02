@@ -1,0 +1,35 @@
+$subtle-white: #f9f9f9;
+$blue: #F03861;
+
+.list--nav {
+  overflow: visible;
+}
+
+li.item--nav {
+  position: relative;
+
+  ul {
+    display:none
+  }
+  &:hover {
+    ul {
+      display: block;
+
+      width: 160px;
+      left: 0;
+
+      position: absolute;
+      li {
+        display:list-item;
+        background-color: #ffffff;
+        float:none;
+        position: relative;
+        text-align: left;
+
+        &:hover {
+          background-color: darken($subtle-white, 10%);
+        }
+      }
+    }
+  }
+}

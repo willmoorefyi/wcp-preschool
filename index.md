@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_link: index
 feature_image: "/assets/img/WCP_Graduation.jpg"
 feature_text: |
   ## Walker Chapel Preschool

@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_link: admissions
 feature_image: "/assets/img/IMG_0830.JPG"
 feature_text: |
   ## Admissions

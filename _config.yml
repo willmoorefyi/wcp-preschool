@@ -25,15 +25,6 @@ logo: "http://www.walkerchapel.org/Portals/67/Images/Preschool/WCP%20Logo%20-%20
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-navigation_header:
-  Home: /
-  About Us: /about.html
-  Admissions: /admissions.html
-  Tuition: /tuition.html
-  Our Classes: /classroom.html
-  Current Families: /families.html
-  Contact Us: /contact.html
-
 # Footer nav
 navigation_footer:
   Back to top: "{{ page.url }}"

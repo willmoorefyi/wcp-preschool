@@ -1,16 +1,18 @@
-{% if site.navigation_header %}
+{% if site.data.navigation %}
 <nav class="nav  nav--header">
   <ul class="list  list--nav">
-    {% for item in site.navigation_header %}
-
-      {% if item[1] contains '://' %}
-        {% assign url = item[1] %}
-      {% else %}
-        {% assign url = item[1] | relative_url %}
-      {% endif %}
-
-      <li class="item  item--nav{% if item[1] == page.url %}  item--current{% endif %}">
-        <a href="{{ url }}">{{ item[0] }}</a>
+    {% assign links = site.data.navigation %}
+    {% for link in links %}
+      <li class="item  item--nav{% if link.url contains page.nav_link %}  item--current{% endif %}">
+        <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+        {% if link.submenu %}
+            <i <i class="fa fa-angle-down"></i>
+            <ul>
+                {% for submenu in link.submenu %}
+                <li class=""><a href="{{ submenu.url | relative_url }}">{{ submenu.title}}</a></li>
+                {% endfor %}
+            </ul>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>

@@ -1,5 +1,6 @@
 ---
 layout: page
+nav_link: tuition
 feature_image: "/assets/img/image2.jpeg"
 feature_text: |
   ## Tuition
