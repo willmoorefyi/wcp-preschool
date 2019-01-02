@@ -12,6 +12,10 @@
   submenu:
     - title: Twos
       url: /twos.html
+    - title: Threes
+      url: /threes.html
+    - title: Fours
+      url: /fours.html
 - title: Current Families
   url: /families.html
 - title: Contact Us

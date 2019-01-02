@@ -1696,7 +1696,8 @@ table {
 li.item--nav {
   position: relative; }
   li.item--nav ul {
-    display: none; }
+    display: none;
+    list-style-type: none; }
   li.item--nav:hover ul {
     display: block;
     width: 160px;
@@ -1704,7 +1705,7 @@ li.item--nav {
     position: absolute; }
     li.item--nav:hover ul li {
       display: list-item;
-      background-color: #ffffff;
+      background-color: #f2f2f2;
       float: none;
       position: relative;
       text-align: left; }

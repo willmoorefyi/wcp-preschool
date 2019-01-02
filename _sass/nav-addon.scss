@@ -9,7 +9,8 @@ li.item--nav {
   position: relative;
 
   ul {
-    display:none
+    display: none;
+    list-style-type: none;
   }
   &:hover {
     ul {
@@ -21,7 +22,7 @@ li.item--nav {
       position: absolute;
       li {
         display:list-item;
-        background-color: #ffffff;
+        background-color: #f2f2f2;
         float:none;
         position: relative;
         text-align: left;
