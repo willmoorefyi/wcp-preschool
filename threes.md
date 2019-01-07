@@ -1,9 +1,10 @@
 ---
 layout: class
 nav_link: classroom
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/img/threes.jpg"
 feature_text: |
   ## Threes
+feature_style: threes
 ---
 
 ---

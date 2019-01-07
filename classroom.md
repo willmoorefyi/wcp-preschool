@@ -1,6 +1,7 @@
 ---
 layout: page
 nav_link: classroom
+feature_image: "/assets/img/wcp-sign.jpg"
 ---
 
 Please visit our class pages for more detailed and specific information regarding our offerings.

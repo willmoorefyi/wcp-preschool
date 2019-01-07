@@ -11,6 +11,10 @@ styles: true
 .container.typeset {
     text-shadow: 1px 1px 2px black;
 }
+.container.typeset h2 {
+    font-size: 2.4rem;
+}
+
 .container.typeset.index {
     color: #F0F3F4;
 }
@@ -23,4 +27,25 @@ styles: true
 }
 .container.typeset.about h2 {
     color: #BA4A00;
+}
+
+.container.typeset.twos {
+    color: #05bf85;
+}
+.container.typeset.twos h2 {
+    color: #05bf85;
+}
+
+.container.typeset.threes {
+    color: #05bf85;
+}
+.container.typeset.threes h2 {
+    color: #05bf85;
+}
+
+.container.typeset.fours {
+    color: #05bf85;
+}
+.container.typeset.fours h2 {
+    color: #05bf85;
 }

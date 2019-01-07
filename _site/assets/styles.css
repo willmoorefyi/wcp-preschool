@@ -1690,28 +1690,28 @@ table {
     box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.1);
     margin: 0.5rem 0;
     padding: 0; } }
-.list--nav {
-  overflow: visible; }
+@media screen and (min-width: 100em) {
+  .list--nav {
+    overflow: visible; }
 
-li.item--nav {
-  position: relative; }
-  li.item--nav ul {
-    display: none;
-    list-style-type: none; }
-  li.item--nav:hover ul {
-    display: block;
-    width: 160px;
-    left: 0;
-    position: absolute; }
-    li.item--nav:hover ul li {
-      display: list-item;
-      background-color: #f2f2f2;
-      float: none;
-      position: relative;
-      text-align: left; }
-      li.item--nav:hover ul li:hover {
-        background-color: #e0e0e0; }
-
+  li.item--nav {
+    position: relative; }
+    li.item--nav ul {
+      display: none;
+      list-style-type: none; }
+    li.item--nav:hover ul {
+      display: block;
+      width: 160px;
+      left: 0;
+      position: absolute; }
+      li.item--nav:hover ul li {
+        display: list-item;
+        background-color: #f2f2f2;
+        float: none;
+        position: relative;
+        text-align: left; }
+        li.item--nav:hover ul li:hover {
+          background-color: #e0e0e0; } }
 .class p {
   text-align: center; }
 .class ul li > ul {
@@ -1720,6 +1720,9 @@ li.item--nav {
 
 .container.typeset {
   text-shadow: 1px 1px 2px black; }
+
+.container.typeset h2 {
+  font-size: 2.4rem; }
 
 .container.typeset.index {
   color: #F0F3F4; }
@@ -1732,3 +1735,21 @@ li.item--nav {
 
 .container.typeset.about h2 {
   color: #BA4A00; }
+
+.container.typeset.twos {
+  color: #05bf85; }
+
+.container.typeset.twos h2 {
+  color: #05bf85; }
+
+.container.typeset.threes {
+  color: #05bf85; }
+
+.container.typeset.threes h2 {
+  color: #05bf85; }
+
+.container.typeset.fours {
+  color: #05bf85; }
+
+.container.typeset.fours h2 {
+  color: #05bf85; }
