@@ -24,4 +24,4 @@ Please visit our [About Us page](about.html) for more detailed information about
 
 Contact Preschool Director: Pat McGeehan  
 <mailto:wcpreschool@comcast.net>  
-703-538-5200
+703-538-2170

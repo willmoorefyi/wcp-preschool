@@ -37,26 +37,6 @@ In our Teacher’s Words
 
 A typical day tends to follow the below schedule
 
-* Free Play
-* Circle Time
-    * Jobs
-    * Time Awareness (calendar work)
-    * Number Awareness (values & addition)
-    * Art Awareness (painting of the month)
-* Snack
-* Project & Pre Academics
-    * Handwriting without Tears
-    * Letter sound recognition worksheets
-    * Weekly Reader
-    * Letter, Number & Concepts Workbook
-* Sharing (reinforcing letter & sound recognition
-* Free time & Outside Play
-* Lunch
-* Free time, indoor & outdoor play
-
-
-
-
 | Free Play |
 | Circle Time {::nomarkdown}<ul><li>Jobs</li><li>Time Awareness (calendar work)</li><li>Number Awareness (values & addition)</li><li>Art Awareness (painting of the month)</li></ul>{:/} |
 | Snack |
