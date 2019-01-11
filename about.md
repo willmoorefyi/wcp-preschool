@@ -1,7 +1,7 @@
 ---
 layout: page
 nav_link: about
-feature_image: "/assets/img/IMG_0162.jpg"
+feature_image: "/assets/img/about.jpg"
 feature_text: |
   ## About Us
 feature_style: about

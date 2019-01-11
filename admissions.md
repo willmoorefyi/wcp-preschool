@@ -1,7 +1,7 @@
 ---
 layout: page
 nav_link: admissions
-feature_image: "/assets/img/IMG_0830.JPG"
+feature_image: "/assets/img/admissions.jpg"
 feature_text: |
   ## Admissions
 feature_style: index
