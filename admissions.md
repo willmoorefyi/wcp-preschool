@@ -11,7 +11,13 @@ feature_style: index
 
 New Applicants may submit the registration form and Non-refundable application fee of $40.00 during our open enrollment period.
 
-Our classes are filled to capacity for the 2018-2019 school year.  We will begin our open enrollment period for the 2019-2020 school year in January 2019, dates will be announced closer to the enrollment period.  Please contact the director, Pat McGeehan with specific questions.
+### Now Accepting Applications
+
+Now Accepting applications for the 2019 School year for all classes!  Please download the documents below and return the completed registration form to the director by January 25, 2019.
+
+{% include button.html text="Brief Description" link="/assets/Brief Description 2018.doc" %}
+{% include button.html text="Registration Form" link="/assets/Registration.doc" %}
+
 
 Classes will be filled to capacity with priority given to current families, siblings, alumni and Walker Chapel Church members.  Once a class is enrolled to capacity a waitlist will be maintained for the current academic year.  Applications received after the deadline will be added to the waitlist accordingly.  Should an opening occur, offerings will be made in accordance with the priority list and waitlist taking into account overriding factors such as gender and age balance.  Any final class placement is at the discretion of Walker Chapel Preschool Staff.
 
