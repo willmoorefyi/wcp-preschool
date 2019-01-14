@@ -12,13 +12,13 @@ feature_style: index
 Tuition is invoiced monthly and is due the first day of the month.  Late fees will be applied if tuition is not received by the 10th of the month.
 
 <div class="table-tuition" markdown="1">
-<div class="table-header">Monthly tuition</div>
+<div class="table-header">Monthly tuition 2019-2020</div>
 
 | Class | Monthly Tuition |
 |---|---|
-| 2 year old | $390.00 |
-| 3 year old | $430.00 |
-| Pre-K/4 year old | $945.00 |
+| 2 year old | $410.00 |
+| 3 year old | $445.00 |
+| Pre-K/4 year old | $975.00 |
 
 </div>
 
