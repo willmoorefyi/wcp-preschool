@@ -13,6 +13,8 @@ feature_style: fours
 4102 North Glebe Road<br/>
 Arlington, Virginia 22207
 
+[{% include icon.html id="facebook" title="facebook" %} Visit us on Facebook!](https://www.facebook.com/walkerchapelpreschool/)
+
 {% include map.html id="1vkcMBGSKqlAac762zcGQFwNwwwZf4pAi" title="Walker Chapel Preschool" %}
 
 

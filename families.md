@@ -10,10 +10,6 @@ feature_style: index
 ---
 
 We are grateful for the community built by our Walker Chapel Families.  Please find some helpful resources below.
-Hyperlink button to Calendar
-Hyperlink button to Tuition
-Hyperlink button to Forms
-Hyperlink button to Inclement Weather Policy
 
 ### Calendar
 
@@ -55,9 +51,9 @@ See [Tuition](/tuition.html)
 
 Please remember that we must have health forms from a well-child exam that has occured within 12 months to the beginning of the school year on file for each student.
 
-[VA State Medical Health Forms](http://www.doe.virginia.gov/support/health_medical/school_entrance_form/school_entrance_form.pdf)
+{% include button.html text="VA State Medical Health Forms" link="http://www.doe.virginia.gov/support/health_medical/school_entrance_form/school_entrance_form.pdf" %}
 
-[Walker Chapel Preschool Registration Form](http://www.walkerchapel.org/Portals/67/docs/Preschool/Application_Wait_List_Form.pdf?ver=2018-01-02-151023-563)
+{% include button.html text="Existing Student Registration Form" link="assets/In_House_Registration.doc" %}
 
 ### Inclement Weather Policy
 
