@@ -1,7 +1,7 @@
 ---
 layout: page
 nav_link: index
-feature_image: "/assets/img/wcp_graduation.jpg"
+feature_image: "/assets/img/celebrate.jpg"
 feature_text: |
   ## Walker Chapel Preschool
   Your Neighborhood school, serving the community since 1970

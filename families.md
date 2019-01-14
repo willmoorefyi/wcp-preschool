@@ -1,10 +1,10 @@
 ---
 layout: page
 nav_link: families
-feature_image: "/assets/img/families.jpg"
+feature_image: "/assets/img/wcp_graduation.jpg"
 feature_text: |
   ## Current Family Resources
-feature_style: about
+feature_style: index
 ---
 
 ---
