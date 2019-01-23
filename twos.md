@@ -13,7 +13,7 @@ Lead Teacher: Mrs. Suzanne Romness <br/>
 Teaching Assistants: 2 assistants <br/>
 Class Size: 12 Children, must be age 2 by September 30th <br/>
 Class Schedule: Tuesdays & Thursdays, 9:15am - 12:45pm* <br/>
-Tuition: $390 monthly
+Tuition: $410 monthly
 
 * *Children begin staying for lunch around Halloween, prior to that time pick up is at 12:00pm*
 

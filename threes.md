@@ -13,7 +13,7 @@ Lead Teacher: Mrs. Michelle Parks<br/>
 Teaching Assistants: 1 assistant<br/>
 Class Size: 12 students, must be age 3 by September 30th and toilet trained<br/>
 Class Schedule: Monday, Wednesday & Friday, 9:15am-12:45pm<br/>
-Tuition: $430.00 monthly<br/>
+Tuition: $445.00 monthly<br/>
 
 In our Teacher’s words
 
