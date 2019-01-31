@@ -30,7 +30,7 @@ In our Teacher’s words
 
 ##### Class Schedule
 
-A typical day tends to follow the below schedule
+A typical day tends to follow the below schedule:
 
 | 9:15am-10:00am | Arrival time & Free Time |
 | 10:00am-10:10am | Circle Time |

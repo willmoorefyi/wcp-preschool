@@ -35,7 +35,7 @@ In our Teacher’s Words
 
 ##### Class Schedule
 
-A typical day tends to follow the below schedule
+A typical day tends to follow the below schedule:
 
 | Free Play |
 | Circle Time {::nomarkdown}<ul><li>Jobs</li><li>Time Awareness (calendar work)</li><li>Number Awareness (values & addition)</li><li>Art Awareness (painting of the month)</li></ul>{:/} |

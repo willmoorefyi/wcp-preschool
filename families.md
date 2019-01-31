@@ -11,10 +11,8 @@ feature_style: index
 
 We are grateful for the community built by our Walker Chapel Families.  Please find some helpful resources below.
 
-### Calendar
-
 <div class="table-tuition" markdown="1">
-<div class="table-header">Calendar</div>
+<div class="table-header">2018-2019 Calendar</div>
 
 | Date | Event |
 |---|---|
@@ -57,7 +55,7 @@ Please remember that we must have health forms from a well-child exam that has o
 
 ### Inclement Weather Policy
 
-Walker Chapel Preschool follows the Arlington County Public Schools inclement weather policy.  Please check your location resources for ACPS closure information and consult our guidelines as needed.  Our guidelines are as outlined below:
+Walker Chapel Preschool follows the Arlington County Public Schools inclement weather policy.  Please check your location resources for APS closure information and consult our guidelines as needed.  Our guidelines are as outlined below:
 
 <div class="table-tuition" markdown="1">
 <div class="table-header">Inclement Weather Policy</div>

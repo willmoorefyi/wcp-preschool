@@ -15,7 +15,7 @@ Class Size: 12 Children, must be age 2 by September 30th <br/>
 Class Schedule: Tuesdays & Thursdays, 9:15am - 12:45pm* <br/>
 Tuition: $410 monthly
 
-* *Children begin staying for lunch around Halloween, prior to that time pick up is at 12:00pm*
+\* *Children begin staying for lunch around Halloween, prior to that time pick up is at 12:00pm*
 
 In our Teacher’s Words:
 
@@ -31,7 +31,7 @@ In our Teacher’s Words:
 
 ##### Class Schedule
 
-A typical day tends to follow the below schedule
+A typical day tends to follow the below schedule:
 
 | 9:15am-10:00am | Welcome, free play and craft |
 | 10:00am-10:30am | Snack and library time |
