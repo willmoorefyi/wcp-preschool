@@ -64,7 +64,7 @@ Walker Chapel Preschool follows the Arlington County Public Schools inclement we
 |---|---|
 | Closed | Closed |
 | Open 1 Hour Late | Open at 10am |
-| Open 2 Hours Late | Closed |
+| Open 2 Hours Late | Open 2 Hours Late |
 | Early Dismissal | Close ASAP |
 
 </div>
