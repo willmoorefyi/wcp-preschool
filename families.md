@@ -16,28 +16,30 @@ We are grateful for the community built by our Walker Chapel Families.  Please f
 
 | Date | Event |
 |---|---|
-|September 10|First day of school for 4s|
-|September 10|First day of school for 3s|
-|September 11|First day of school for 2s (Noon Dismissal through Halloween)|
-|October 8|No school-Columbus Day|
+|September 4|3s Visiting Day 10-11 AM|
+|September 5|2s Visiting Day 9-10 AM|
+|September 9|3s First day of school 9:15-12:45|
+|September 9|4s First day of school 9:15-2:30|
+|September 10|2s First day of school (Noon Dismissal through Halloween)|
+|October 14|No school-Columbus Day|
 |Date to be determined|School Pictures for 2s|
 |Date to be determined|School Pictures for 3s & 4s|
-|October 30|Halloween Parade for 2s|
-|October 31|Halloween Parade for 3s & 4s|
-|November 10|2s stay until 12:45PM-Begin bringing lunch|
-|November 12|No School-Veterans Day|
-|November 21-23|No School-Thanksgiving|
-|December 14|School Christmas Program for 3s & 4s|
-|December 24-31|No School-Christmas|
-|January 1-4|No School-Christmas|
-|January 7|School reopens|
-|January 21|No School-MLK Day|
-|February 18|No School-Presidents' Day|
-|April 15-19|No School-Spring break|
-|April 22|School reopens|
-|May 27|No School-Memorial Day|
-|June 13/|2s last day of school|
-|June 14|3s/4s last day of school|
+|October 30|Halloween Parade for 3s & 4s|
+|October 31|Halloween Parade for 2s|
+|November 5|2s stay until 12:45PM - Begin bringing lunch|
+|November 11|No School - Veterans Day|
+|November 27-29|No School - Thanksgiving|
+|December 13|School Christmas Program for 3s & 4s|
+|December 23-31|No School - Christmas|
+|January 1-2|No School - Christmas|
+|January 6|School reopens|
+|January 20|No School - MLK Day|
+|February 17|No School - Presidents' Day|
+|April 6-13|No School - Spring break|
+|April 14|School reopens|
+|May 25|No School - Memorial Day|
+|June 11|2s last day of school|
+|June 12|3s/4s last day of school|
 
 </div>
 

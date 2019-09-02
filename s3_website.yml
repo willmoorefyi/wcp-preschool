@@ -21,6 +21,7 @@ profile: wcp-preschool
 #   "assets/*": 6000
 #   "*": 300
 
+
 # gzip:
 #   - .html
 #   - .css
