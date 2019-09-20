@@ -12,7 +12,7 @@ feature_style: index
 We are grateful for the community built by our Walker Chapel Families.  Please find some helpful resources below.
 
 <div class="table-tuition" markdown="1">
-<div class="table-header">2018-2019 Calendar</div>
+<div class="table-header">2019-2020 Calendar</div>
 
 | Date | Event |
 |---|---|
