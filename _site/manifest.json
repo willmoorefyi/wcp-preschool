@@ -6,7 +6,7 @@
   "background_color": "#ffffff",
   "icons": [
     {
-      "src": "http://www.walkerchapel.org/Portals/67/Images/Preschool/WCP%20Logo%20-%20transparent%20-%20full.png",
+      "src": "/assets/img/wcp_logo.png",
       "sizes": "512x512"
     }
   ],
