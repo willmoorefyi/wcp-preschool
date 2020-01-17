@@ -13,7 +13,7 @@ feature_style: index
 
 Now Accepting applications for the 2020 School year for all classes!  Please download the documents below and return the completed registration form to the director, along with the non-refundable application fee of $40.00, by January 22, 2020.
 
-{% include button.html text="Registration Form" link="/assets/Walker_Chapel_Preschool-Outside_Registration_Form_2020.docx" %}
+{% include button.html text="Registration Form" link="/assets/Walker_Chapel_Preschool-Outside_Registration_Form_2020.doc" %}
 
 Classes will be filled to capacity with priority given to current families, siblings, alumni and Walker Chapel Church members.  Once a class is enrolled to capacity a waitlist will be maintained for the current academic year.  Applications received after the deadline will be added to the waitlist accordingly.  Should an opening occur, offerings will be made in accordance with the priority list and waitlist taking into account overriding factors such as gender and age balance.  Any final class placement is at the discretion of Walker Chapel Preschool Staff.
 
