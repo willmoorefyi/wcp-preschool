@@ -53,7 +53,7 @@ Please remember that we must have health forms from a well-child exam that has o
 
 {% include button.html text="VA State Medical Health Forms" link="http://www.doe.virginia.gov/support/health_medical/school_entrance_form/school_entrance_form.pdf" %}
 
-{% include button.html text="Existing Student Registration Form" link="assets/Walker_Chapel_Preschool-In_House_Registration-2020-2021.doc" %}
+{% include button.html text="Existing Student Registration Form" link="assets/registration_form.doc" %}
 
 ### Inclement Weather Policy
 

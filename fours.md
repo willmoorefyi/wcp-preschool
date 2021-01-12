@@ -12,8 +12,8 @@ feature_style: fours
 Lead Teacher: Mrs. Nancy Feldman<br/>
 Teaching Assistants: 1 assistant<br/>
 Class Size: 12 Children, must be age 4 by September 30th<br/>
-Class Schedule: Monday, Tuesday, Wednesday, Thursday & Friday, 9:15am-2:30pm<br/>
-Tuition: $975.00 monthly
+Class Schedule: Monday, Tuesday, Wednesday, Thursday & Friday, 9:15am-12:45pm<br/>
+Tuition: $660.00 monthly
 
 In our Teacher’s Words
 
