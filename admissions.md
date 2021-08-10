@@ -20,5 +20,5 @@ Classes will be filled to capacity with priority given to current families, sibl
 Notification of acceptance or placement onto the waitlist will be made in the month of February.  Specific dates will be announced during our open enrollment period.
 Upon Acceptance, a deposit of one month’s tuition will be billed and collected.  This deposit will be applied to the June tuition for the upcoming school year and is refundable if your child decides not to attend before the start of school.
 
-To request a tour of our facility please contact the Director, Pat McGeehan <mailto:wcpreschool@walkerchapel.org>.
+To request a tour of our facility please contact the Director <mailto:wcpreschool@walkerchapel.org>.
 

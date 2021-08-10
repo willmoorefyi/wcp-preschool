@@ -20,6 +20,5 @@ Arlington, Virginia 22207
 
 ### Director
 
-Pat McGeehan<br/>
 <mailto:wcpreschool@walkerchapel.org><br/>
 703-538-2170

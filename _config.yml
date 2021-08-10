@@ -50,7 +50,7 @@ defaults:
       image: true
 
 social: # jekyll-seo-tag > social overrides
-  name: Pat McGeehan # jekyll-seo-tag > real name
+  name: Walker Chapel Preschool Director # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://www.facebook.com/walkerchapelpreschool/
 
