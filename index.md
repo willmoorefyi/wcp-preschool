@@ -27,5 +27,5 @@ Please visit our [About Us Page](about.html) for more detailed information about
 ### Questions?
 
 Contact Preschool Director: Pat McGeehan  
-<mailto:wcpreschool@comcast.net>  
+<mailto:wcpreschool@walkerchapel.org>  
 703-538-2170
